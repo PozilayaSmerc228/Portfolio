@@ -1,0 +1,8 @@
+.forMe{
+    width: 80%;
+    height: 600px;;
+    background-image: url("me.png");
+    background-size: 100% 100% cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}  
